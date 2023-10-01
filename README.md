@@ -1,5 +1,5 @@
 PREMISE: This code only works in the Windows operating system. So it doesn't work on Linux, IOS, etc.
-That said, it all works very simply. There is a link file inside the main folder called "Cursor Position", you can take this file and place it wherever you want on the computer to be able to start the application. 
+That said, it all works very simply. There is a link file inside the main folder called "Cursor Position.Ink", you can take this file and place it wherever you want on the computer to be able to start the application. 
 Or you can directly open the .exe file named "Cursor-Position.exe".
 
 Once started the program will display the position of your mouse in real time. 
